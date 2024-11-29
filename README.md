@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+This project demonstrates a floating navbar that hides and shows based on user scroll direction.  
+You can view the live demo here: [Floating Navbar Demo](https://hari-narayan-gupta.github.io/FloatingNavbar/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
